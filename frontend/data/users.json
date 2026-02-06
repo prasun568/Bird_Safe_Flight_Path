@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1e4258c2-710b-4c0b-8062-b39c65f8532f",
+    "email": "demo@birdsafeflight.com",
+    "name": "Demo Ops",
+    "passwordHash": "$2b$12$e/s5k9Us/75c65WIInopoOIktTi2/lBciy9FuSxmlChwf03aqXYzO",
+    "createdAt": "2026-04-20T18:46:43.347Z"
+  },
+  {
+    "id": "5861e83c-a33d-4827-94f5-0d5cc312fda9",
+    "email": "prasun976@gmail.com",
+    "name": "Prasun Singh",
+    "passwordHash": "$2b$12$wvTT.Knh8zSGYMcZfksx7ODbTaL3cKjhbQ2zD9G5gdpmNeZ9N7STa",
+    "createdAt": "2026-04-20T18:57:59.882Z"
+  }
+]
